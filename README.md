@@ -1,2 +1,2 @@
 # spring-mini
-微信spring
+微型spring
